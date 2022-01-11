@@ -4,6 +4,8 @@ import './styles/global.scss';
 export function App(){
     // throw new Error('Errou');
 
+    return (
+          <RepositoryList />
 
-    return <RepositoryList />
+    )
 }
